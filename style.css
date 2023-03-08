@@ -1,0 +1,64 @@
+h1 {
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: left;
+}
+
+h2 {
+    color: whitesmoke;
+    text-align: left;
+    font-family: "Comic Sans MS", "Comic Sans", monospace;
+}
+
+h3 { 
+    color: whitesmoke;
+    font-size: x-small;
+}
+
+nav {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav a {
+    display: inline-block;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #666;
+}
+body {
+    background-color: black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+p {
+    color: whitesmoke;
+    font-family: "Comic Sans MS", "Comic Sans", monospace;
+}
+
+a {
+    color: whitesmoke;
+}
+
+ul {
+    color: whitesmoke;
+    font-family: "Comic Sans MS", "Comic Sans", monospace;
+}
